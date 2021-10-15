@@ -1,0 +1,1 @@
+{ "name": "ts_module_resolution_error", "type": "module", "devDependencies": { "typescript": "next" } }
